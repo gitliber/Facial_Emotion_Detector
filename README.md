@@ -16,12 +16,6 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 ![alt tag](images/navy.jpg)
 
 
-Real-time demo:
-<div align='center'>
-  <img src='images/color_demo.gif' width='400px'>
-</div>
-
-
 ## Instructions
 
 ### Run real-time emotion demo:
@@ -65,7 +59,7 @@ With a few steps one can get its own face classification and detection running. 
 * Move the downloaded file to the datasets directory inside this repository.
 
 * Untar the file:
-> tar -xfv imdb_crop.tar
+> tar -xfv imdb_crop.tar 
 
 * Run the train_gender_classification.py file
 > python3 train_gender_classifier.py
@@ -75,4 +69,3 @@ With a few steps one can get its own face classification and detection running. 
 Original project by the [B-IT-BOTS robotics team](https://mas-group.inf.h-brs.de/?page_id=622)
 
 For more information please consult the [publication](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
-
