@@ -20,7 +20,7 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 ### Run real-time emotion demo:
 
-[![Watch the video](https://github.com/gitliber/Facial_Emotion_Detector/blob/master/images/emotions.mp4)]
+(https://github.com/gitliber/Facial_Emotion_Detector/blob/master/images/emotions.png)
 
 > python3 video_emotion_color_demo.py
 
