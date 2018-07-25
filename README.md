@@ -22,9 +22,9 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}/images/emotions.mp4" type="video/mp4" />
+       <source src="/images/emotions.mp4" type="video/mp4" />
        <source src="{{ site.baseurl }}/images/emotions.ogv" type="video/ogg" />
-       <source src="{{ site.baseurl }}/images/emotions.webm"  type="video/webm"  />
+       <source src="/images/emotions.webm"  type="video/webm"  />
    </video>
 </div>
  
