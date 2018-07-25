@@ -21,6 +21,7 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 ### Run real-time emotion demo:
 
 ![alt tag](images/emotions.mp4)
+![alt tag](images/emotions.ogv)
 ![alt tag](images/emotions.webm)
 
 <div class="myvideo">
