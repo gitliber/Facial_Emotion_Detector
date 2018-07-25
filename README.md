@@ -13,7 +13,7 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 ![alt tag](images/office.png)
 
-![alt tag](images/sailors.jpg)
+![alt tag](images/navy.jpg)
 
 
 Real-time demo:
