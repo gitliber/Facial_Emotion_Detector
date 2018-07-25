@@ -5,11 +5,15 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 # Emotion/gender examples:
 
-![alt tag](images/marriage_01.jpg)
-
 ![alt tag](images/guns.jpg)
 
-![alt tag](images/wropenup.jpg)
+![alt tag](images/japan.png)
+
+![alt tag](images/navi.jpg)
+
+![alt tag](images/office.png)
+
+![alt tag](images/sailors.jpg)
 
 
 Real-time demo:
