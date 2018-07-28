@@ -72,3 +72,8 @@ With a few steps one can get its own face classification and detection running. 
 Original project by the [B-IT-BOTS robotics team](https://mas-group.inf.h-brs.de/?page_id=622)
 
 For more information please consult the [publication](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
+
+<br>
+<A Href="https://www.linkedin.com/in/jairribeiro/" target="_blank"><img src="https://raw.githubusercontent.com/gitliber/Basic_self_driving_car/master/LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+</A>
+
